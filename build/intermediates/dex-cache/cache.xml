@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\WheelView-Android-master\demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\android_github\WheelView-Android-master\demo\build\intermediates\pre-dexed\debug\classes-d0e6d5c1a5ab2478737e67ac91d6110ce77f4dfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhangzhenzhong1\Desktop\WheelView-Android-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\zhangzhenzhong1\Desktop\WheelView-Android-master\demo\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-e1a4cd971284c3c8b91738fa588f348f106b5a73.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WheelView-Android-master\demo\build\intermediates\exploded-aar\com.lantouzi.wheelview\library\1.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12e769972617217c6c54ae6cb9f1e85f46b31f53">
+        <dex dex="D:\android_github\WheelView-Android-master\demo\build\intermediates\pre-dexed\debug\classes-b8484dd1946ea0cc0cdfb946683298e01e5cdb4a.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WheelView-Android-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\android_github\WheelView-Android-master\demo\build\intermediates\pre-dexed\debug\classes-e9abb01431e4b24eaeea03e36494358f2eb02cf3.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\zhangzhenzhong1\Desktop\WheelView-Android-master\demo\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-ba8bd9363cea32ce09d2ca11803007488a665f1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhangzhenzhong1\Desktop\WheelView-Android-master\demo\build\intermediates\exploded-aar\com.lantouzi.wheelview\library\1.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="868a30dfc79bb39039a4fa44f45e5b9b1f874f92">
+        <dex dex="C:\Users\zhangzhenzhong1\Desktop\WheelView-Android-master\demo\build\intermediates\pre-dexed\debug\classes-7d9fbad9d30b4a2dcf998e78addeb5537d2af418.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WheelView-Android-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\android_github\WheelView-Android-master\demo\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-184390bab8175a93ddcc087eb6dd64a2b160756c.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhangzhenzhong1\Desktop\WheelView-Android-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\zhangzhenzhong1\Desktop\WheelView-Android-master\demo\build\intermediates\pre-dexed\debug\classes-75bd7098a4c19276839d2553a5e476ade536833a.jar" />
+    </item>
+    <item
+        jar="C:\Users\zhangzhenzhong1\Desktop\WheelView-Android-master\demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\zhangzhenzhong1\Desktop\WheelView-Android-master\demo\build\intermediates\pre-dexed\debug\classes-3ca67086750c38e3e31ebdcff3b001609c3c58d9.jar" />
+    </item>
+
+</items>
